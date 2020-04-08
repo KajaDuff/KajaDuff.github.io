@@ -1,3 +1,4 @@
+
 h1{
   margin-bottom: 50px;
   margin-top: 50px;
@@ -23,7 +24,7 @@ footer {
   border: 3px solid white;
   max-height: 300px;
   width: 1200px;
-  margin-left: 250px;
+  margin-left: 150px;
   margin-right: 250px;
   position:relative;
   top:0;
@@ -58,7 +59,7 @@ footer {
 section,main,footer {
   font-family: 'Josefin Sans', sans-serif;
   width: 1000px;
-  margin-left: 350px;
+  margin-left: 250px;
   margin-right: 300px;
   padding: 20px;
 }
